@@ -1,0 +1,1218 @@
+--- 2/19/2015 -- 15:55:52 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+Server.cs Line: 631 - Syntax error.
+SeedRandomNT: Unknown command.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Admin.cs Line: 753 - Syntax error.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+--- 2/19/2015 -- 15:56:57 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+Server.cs Line: 631 - Syntax error.
+SeedRandomNT: Unknown command.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Admin.cs Line: 753 - Syntax error.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+--- 2/19/2015 -- 15:57:34 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+SeedRandomNT: Unknown command.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Admin.cs Line: 753 - Syntax error.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+--- 2/19/2015 -- 15:58:10 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+SeedRandomNT: Unknown command.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Admin.cs Line: 833 - Syntax error.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+--- 2/19/2015 -- 15:58:45 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Admin.cs Line: 833 - Syntax error.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+--- 2/19/2015 -- 15:59:30 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+0.0999999
+MSG: "Server: Player \"JimmyCarter\" added - id = 2049"
+CONNECT: 2049 "JimmyCarter" IP:192.168.0.11:54864
+Giving defaults to new player 2049
+Storing class value Fighter for 2049...
+Distribution for Fighter: STR 35, DEX 15, CON 30, INT 10, WIS 10
+SPAWN: cl:2049 pl:9238 marker:8342 position: -2432.5 -268.798 77.5941 armor:OrcArmor
+Saving character JimmyCarter (2049)...
+Save for JimmyCarter (2049) complete.
+GAME: clientdrop 2049
+MSG: "Server: Player \"JimmyCarter\" dropped - id = 2049"
+SaveWorld|2015/02/19 16:04:25|Objects:0
+--- 2/19/2015 -- 16:8:51 ---
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Executing PluginLoader.cs.
+DoSFixPlugin
+GraphicsPlugin
+MathPlugin
+PatchesPlugin
+StringPlugin
+Executing darkstar.strings.cs.
+Executing editor.strings.cs.
+Executing commonEditor.strings.cs.
+Executing esf.strings.cs.
+Executing fear.strings.cs.
+Executing help.strings.cs.
+Executing sfx.strings.cs.
+exec: invalid script file banlist.cs.
+Executing missionList.cs.
+Executing gui.cs.
+Executing sae.cs.
+Executing extra-controls.cs.
+Executing client.cs.
+Executing server.cs.
+Executing tsDefaultMatProps.cs.
+Executing game.cs.
+exec: invalid script file GenericTriggers.cs.
+Executing chatmenu.cs.
+Executing menu.cs.
+Executing observer.cs.
+Executing PlayerSetup.cs.
+exec: invalid script file players.cs.
+Executing IRCClient.cs.
+Executing IRCServers.cs.
+Executing Options.cs.
+Executing commander.cs.
+Executing clientDefaults.cs.
+Executing serverDefaults.cs.
+Executing clientPrefs.cs.
+exec: invalid script file serverPrefs.cs.
+Executing config.cs.
+Executing extra-controls.cs.
+exec: invalid script file badwords.cs.
+Executing autoexec.cs.
+GetPathof( filename );
+cursorOn: MainWindow is not a valid SimGui::Canvas
+GuiLoadContentCtrl: MainWindow is not a valid SimGui::Canvas
+renderCanvas: could not find specified canvas
+Executing rpgserv.cs.
+Executing globals.cs.
+Executing rpgfunk.cs.
+Executing connectivity.cs.
+Executing attributes.cs.
+Executing skills.cs.
+Executing house.cs.
+Executing rpgarena.cs.
+Executing sleep.cs.
+Executing Game.cs.
+Executing admin.cs.
+Executing Marker.cs.
+Executing Trigger.cs.
+Executing zone.cs.
+Executing spells.cs.
+Executing classes.cs.
+Executing party.cs.
+Executing jail.cs.
+Executing NSound.cs.
+Executing BaseExpData.cs.
+Executing BaseDebrisData.cs.
+Executing BaseProjData.cs.
+Executing ArmorData.cs.
+Executing HumanArmors.cs.
+Executing EnemyArmors.cs.
+Executing SpecialArmors.cs.
+Executing Mission.cs.
+Executing ITEM.cs.
+Executing Accessory.cs.
+Sound data block "deploy" is undefined
+Executing smithing.cs.
+Executing Weapons.cs.
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Item data block "" undefined
+Projectile data block "NoProjectile" is undefined
+Executing armors.cs.
+Executing Crystal.cs.
+Executing Spawn.cs.
+Executing gameevents.cs.
+Executing shopping.cs.
+Executing weight.cs.
+Executing mana.cs.
+Executing hp.cs.
+Executing rpgstats.cs.
+Executing playerdamage.cs.
+Executing playerspawn.cs.
+Executing itemevents.cs.
+Executing economy.cs.
+Executing remote.cs.
+Executing weaponHandling.cs.
+Executing BonusState.cs.
+Executing ferry.cs.
+Executing PLAYER.cs.
+Executing Vehicle.cs.
+Sound data block "SoundFlierCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Sound data block "SoundTankCrash" is undefined
+Sound data block "SoundFlyerMount" is undefined
+Sound data block "SoundFlyerDismount" is undefined
+Sound data block "SoundFlyerIdle" is undefined
+Sound data block "SoundFlyerActive" is undefined
+Executing Turret.cs.
+Executing Beacon.cs.
+Executing rpgStaticShape.cs.
+Executing rpgStaticShapeVI.cs.
+Executing Station.cs.
+Executing Moveable.cs.
+Executing SENSOR.cs.
+Executing mine.cs.
+Executing AI.cs.
+Executing InteriorLight.cs.
+Executing comchat.cs.
+Executing plugs.cs.
+Executing version.cs.
+Executing bottalk.cs.
+Executing belt.cs.
+config;rpg;rpg\missions;rpg\fonts;rpg\skins;rpg\voices;rpg\scripts;base;base\missions;base\fonts;base\skins;base\voices;base\scripts;recordings;temp
+Notfifying players of mission change: 0 in game
+MSG: "Server: Team \"\" added - id = -1"
+Executing missions\rpgmap6.mis.
+MSG: "Server: Team \"Citizen\" added - id = 0"
+MSG: "Server: Team \"Enemy\" added - id = 1"
+MSG: "Server: Team \"Greenskins\" added - id = 2"
+MSG: "Server: Team \"Gnoll\" added - id = 3"
+MSG: "Server: Team \"Undead\" added - id = 4"
+MSG: "Server: Team \"Elf\" added - id = 5"
+MSG: "Server: Team \"Minotaur\" added - id = 6"
+MSG: "Server: Team \"Uber\" added - id = 7"
+Executing Objectives.cs.
+.--==< RecursiveWorld STARTED >==--.
+ERROR: Couldn't find world 'rpgmap6_worldsave_.cs'
+13 zones initialized.
+25 spawn points initialized.
+Dedicated Server Initialized
+Type help(); for a list of basic commands.
+MSG: "Server: Player \"JimmyCarter\" added - id = 2049"
+CONNECT: 2049 "JimmyCarter" IP:192.168.0.11:54864
+Giving defaults to new player 2049
+Storing class value Fighter for 2049...
+Distribution for Fighter: STR 35, DEX 15, CON 30, INT 10, WIS 10
+SPAWN: cl:2049 pl:9238 marker:8343 position: -2429 -263.773 77.5941 armor:OrcArmor
+0.100000099999999
+SaveWorld|2015/02/19 16:13:46|Objects:0
+Saving character JimmyCarter (2049)...
+Save for JimmyCarter (2049) complete.
+SaveWorld|2015/02/19 16:18:46|Objects:0
+Saving character JimmyCarter (2049)...
+Save for JimmyCarter (2049) complete.
+SaveWorld|2015/02/19 16:23:46|Objects:0
+Saving character JimmyCarter (2049)...
+Save for JimmyCarter (2049) complete.
+SaveWorld|2015/02/19 16:28:46|Objects:0
+Saving character JimmyCarter (2049)...
+Save for JimmyCarter (2049) complete.

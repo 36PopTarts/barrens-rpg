@@ -1,0 +1,30 @@
+Alchemist
+----
+Alchemist is a rather unique class. Alchemists do not directly manipulate magic, as mages do. Instead, they unlock latent magical properties in various substances through catalysts and proper solution. They are extremely versatile thanks to this; fighting physically superior Orcs? No problem, just drink a potion that gives you the same physical capabilities they do. Fire invokers? A potion that makes your skin flame retardant should help. 
+
+Alchemists require a lot of planning; an Alchemist only sets off on an expedition or mission when he's sure he has all of the alchemicals that he needs. They are very versatile, and offer some of the best healing; namely in curing status effects. However, an Alchemist will be hard-pressed to have all of the potions he needs ready all of the time, so he will have to choose his potions carefully each time he sets out.
+
+Skills (1.7 class mod)
+--
+Reactants: The alchemist's knowledge of volatile and dangerous substances (gunpowder, nitro glycerin, sulfuric acid for real-world examples). He can easily fashion explosive devices out of this knowledge, amongst other weapons.
+
+Mutagens: The alchemist's knowledge of substances that alter the metahuman body. These potions must be imbibed to work reliably, so none of these potions are direct weapons against one's enemy.
+
+Salves: The alchemist's knowledge of herbs and substances that can cure the body of ailments.
+
+Psychoactives: The alchemist's knowledge of gasses and substances that can heavily alter the brain's function. A few of these are beneficial, but most focus on causing an enemy's mental faculties to be disrupted.
+
+
+Rated Non-Class Skills
+--
+Daggers - 1.0 // The fine work of the Alchemist in his lab, not to mention several necessary blood samples for experimentation, necessitate proficiency with a short blade.
+
+Archery - 1.0 // Some Alchemists prefer to hang back and use a crossbow. They have performed research into crossbow bolt delivery systems, which would allow an Alchemist to deliver his payload through his crossbow.
+
+Travelling - 1.3 // Alchemists are well-used to travelling the world. Most act as travelling merchants, selling medicines and reagants to any towns they may pass. Their craft lends itself to self-sufficiency. It is also rare and valued, so they are usually welcome wherever they go.
+
+Haggling - 1.2
+
+Dodging - 0.8
+
+

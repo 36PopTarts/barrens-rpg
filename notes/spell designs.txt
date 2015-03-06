@@ -1,0 +1,230 @@
+Ranger Skills
+-----
+Survival
+--
+Gather: With little if any contact with civilization, Rangers learn to care for their own wounds and ailments. Use #gather to use medicinal herbs that the Ranger has gathered passively on your journey. You must wait a significant amount of time before your Ranger has gathered enough herbs to heal himself again.
+
+Eschew Equipment: All Rangers are at least somewhat adept at crafting, and their wide-ranging travels often bring them bandit's gear and other such windfalls. Rangers with this ability passively receive a better set of baseline equipment than everyone else, relatively speaking.
+
+Mysticism:
+--
+Apply Mud: It is unclear to outsiders whether this ritual has mystical properties, but it is effective regardless. If the Ranger chooses to wear no armor, they can bathe themselves in mud. This gives them a dodge bonus and protection against specific effects that involve constriction, grappling, or ensnarement.
+
+Call Lightning: In return for his life of servitude as warden against defilers of nature, its spirits gladly manipulate the elements at the Ranger's request for aid. This spell does not use line-of-sight targeting, like normal spells. Instead, type #cast calllightning <playername>. If the player named is in the same zone as you, they will be struck by lightning. Not effective indoors.
+
+Hunting:
+--
+Mark: The Ranger is very effective at co-ordinating takedowns of single targets. With this ability, the Ranger can mark a target, granting the rest of his party a damage bonus against it. He can only have one such mark active at a time.
+
+Ambush: Like the Rogue, the Ranger is adept at striking from unawares. However, the Ranger's attack is not quite as crippling a blow as the Rogue's backstab. He can, however, perform his ambush with any weapon in hand.
+
+
+Rogue Skills
+-----
+
+Coercion
+--
+Backstab: Taking advantage of an opponent's lack of awareness, a hiding Rogue can land a shot that truly counts at the start of a fight. A signature starter. Requires a dagger.
+
+Gut Shot: The Rogue stabs his victim deeply in the abdomen, causing them to suffer bleeding. Requires a sword or dagger.
+
+Cheap Shot: In most martial arts codes, it is instructed that the fight is over when the victim is on the ground. In a Rogue's line of work, the fight is over
+when the money has changed hands. Cheap Shot is a passive ability that has a chance to activate when the Rogue is within melee range of a tripped or bashed opponent. The Rogue capitalizes on his foe's less-mobile state to deal more damage, which actually requires a degree of skill in order for the maneuver to not backfire, and so the Rogue does not always see a good opportunity to land a cheap shot. As a result of the ability, the tripped or bashed state is reset to the beginning, and the victim suffers the full duration of the effect again, as well as mild damage. This ability has a cooldown.
+
+Flanking: The Rogue naturally deals more damage by capitalizing on weak points when his opponent isn't facing him in a fight.
+
+Blackjack: The Rogue attempts to deliver a clean knockout blow to an unaware opponent. Deals substantial damage and leaves the opponent unconscious for a time. Requires a club.
+
+Precise Shot: Using a bow, the Rogue aims carefully and delivers a heavy hit from hiding.
+
+Earclap: A technique requiring great skill and practice, the earclap is a special ambush maneuver designed to kill mages. Used just like a normal sneak  attack, #earclap does not actually require any weapons in hand to be performed. With great speed and power, the Rogue cups his hands and claps them over his opponent's ears, forcing a pocket of air to smash his eardrums. This renders the victim temporarily deaf. Without proper hearing, mages cannot cast spells barring special training, because they cannot enunciate their incantations properly. This attack is also extremely painful and disorienting.
+
+Poisoning
+--
+Brew: The basic skills of a poisoner allow him to create the poisons to begin with. This is the core skill of the poisoner. As his skill in poisoning
+progresses, he will be able to craft more potent poisons. 
+
+Bloodborne: At this most basic of levels, the poisoner's products must be directly intermingled with the victim's bloodflow. This is accomplished by applying the poison directly to a blade's surface (#poison <poison type> with a sword or dagger equipped) and then penetrating the victim's circulatory system with  said blade. This method is relatively spotty, and isn't always successful if the victim has a good constitution.
+
+Gastric Poison: Violently disrupts the victim's digestive organs, causing bleeding. Causes damage and lasts for an extended period, long enough to kill most
+without any healing, albeit slowly.
+
+Knockout Poison: This poison, when applied, will render the victim unconscious. 
+
+Inhalant: The poisoner has discovered how to universally bond any poison to an airborne substance, thus rendering the poison as an inhalant. This allows the
+poisoner to #administer <poison type> from stealth, applying a rag to the mouth and nose of the victim and immediately applying the poison's effects. This
+method is a guarenteed success; the high potency of the victim directly inhaling the poison means it is impossible to resist.
+
+Fear Poison: Through unpleasant hallucinations, the victim affected by the poison is panicked.
+
+Nerve Poison: A most feared venom, the nerve poison is a substance that causes the victim's central nervous system to go berserk, causing extreme agony. The
+victim will be unable to do anything for a period while being wracked with damaging muscle spasms.
+
+Exposure: Passive; through hours of inhaling fumes and occasional skin contact, the poisoner has built a resistance to the poisons he and others might brew.
+
+Contact: The poisoner has refined his craft once again by bonding his poisons to an oil that seeps into skin pores. This allows crafty poisoners to fashion an explosive that throws poison droplets everywhere, affecting everyone in the blast radius with the poison.
+
+
+Trapping
+--
+Craft Trap: The point of trapping is to be more effective by one's self, and over a long period of time. Thus, all trappers learn how to make their own traps, so that the trapper can maintain their position (either on the hunt in the wilderness, or on the man-hunt in the city) for longer without having to return to camp. As your Trapping skill increases, you will unlock new traps to make with #craft.
+
+Iron Jaw Trap: More commonly known as a bear trap, this device uses jagged iron jaws to grip the victim's leg in place. A victim with a good physique can force the trap open themselves and escape, however.
+
+
+Fighter Skills
+-----
+
+Dagger
+--
+Reverse Grip: With #reverse, the Fighter can change his fighting style by holding the dagger upside-down. This grants increased damage, but it is more 
+difficult to land strikes using this style.
+
+Armpit: A glaring weak spot in human anatomy and virtually all suits of armor, short blade users and warriors who have fought enemies in heavy armor commonly strike the armpit in close quarters. the Fighter deftly steps in close and drives the dagger straight into the victim's armpit. This causes profuse bleeding.
+
+Seek Heart: With a step and a quick, powerful upward thrust, the Fighter precisely navigates the victim's ribcage in an attempt to strike directly at the lungs and heart. Has a chance of causing one of two effects: maximum hit points lowered, or slowed for a brief period (injured lung leaves him out of breath).
+
+Throw: The Fighter precisely throws his dagger, targeting a specific location. The differing locations offer different debuffs to the target, in addition to damage. Eye: High base damage. Target is blinded for a period. Difficult to hit. Throat: High base damage. Target can't talk or cast spells for a period. Chest: High base damage. Strength lowered heavily. Shoulder: Moderate base damage. Lowered strength and dexterity. Leg: Moderate base damage. Lowered movement. The dagger is added to the victim's inventory. 
+
+Sword
+--
+Blade Bind: If successful (likely except against a similarly skilled Fighter), both combatants cannot attack each other for a brief amount of time. Amplifies the chance of success of the Fighter's next special maneouver, especially disarm and trip. Doesn't work if your opponent isn't using a weapon.
+
+Riposte: Swordsmen are very quick and observant, adept at taking opportunities. Gives you a passive chance to get an extra counterattack when you parry.
+
+Hamstring: With a precise, efficient cut, the swordsman lacerates the victim's hamstring, making it extremely difficult for them to walk for a moderate period.
+
+Flurry: Exhibiting inhuman grace, the Fighter performs three attacks as fluidly as if he had performed one. The attacks are weaker than a standard attack, 
+but swordsmen favor wearing their opponents down with their superior grace and defense. Their sum still evaluates to much greater damage than a standard attack.
+
+Polearm
+--
+Thrust: A single, powerful lunge, thrust offers extra reach and damage for those opponents who just try to get away.
+
+Entrap: Like the swordsman's blade bind, but more effective; the Fighter traps his opponent's weapon using the fluke or crossguard of his weapon. This 
+prevents the enemy from attacking with a melee weapon for a brief time.
+
+Legsweep: The Fighter aims low, hoping to throw his opponent to the ground. Reliably trips the enemy opponent, and causes some damage.
+
+Cutoff: The Fighter is extremely skilled at using his polearm, even at its reach's end. When an opponent tries to move away, the Fighter passively gets a chance to attack them and stop their movement momentarily. (Has a passive cooldown.)
+
+Skewer: This technique is normally used by Hill Giants, whose immense strength and stature make it effective. The Fighter has reached a legendary level of strength and skill, and so has mimiced it. In this technique, the Fighter utilizes cavalry training and couches a polearm under his arm. The original Hill Giant version of this technique called for the Fighter to stand at the top of a high hill, weapon ready, target in sight. Then, the Giants were to run down the hill and utilize the extra speed to run through the target, much like lancing on horseback. However, it is difficult for a man of human or near-human stature to attain such speed manually. Legends tell of great warlords that perfected this technique and glided down the cliffs like peregrine falcons, impaling all who would stand in their way. Type #skewer to activate, and then run into an enemy. Effect ends when you connect or attack normally.
+
+Axe
+--
+Overpower: A mind-game technique, the Fighter performs a somewhat sloppy overhand chop attack, putting all of his power into the strike. If it hits, it deals
+increased damage. If the attack is parried, the victim's elbow is sprained, giving them penalties to hit and damage, and taking some portion of the hit's damage as well. The glaring weakness in the attack is a dodge, which renders the Fighter extremely off-balance. It is best to avoid using this technique against dextrous foes.
+
+Hook: Axes are bearded for a reason. The Fighter passively uses his axe to hook his opponent's shield and throw him off balance during combat. Gives the 
+Fighter a chance to bypass any armor provided by a shield when attacking with an axe.
+
+Weapon Breaker: King of raw cutting force, the Fighter's supernatural strength combined with the axe allows him to potentially damage or even destroy an
+opponent's weapon. If an opponent parries your attack, there's a chance that their weapon will receive the Damaged template or be destroyed. The chance is magnified with Overpower.
+
+Full Moon Swing: A daring and flashy but brutally effective technique, the Full Moon Swing is extremely difficult to perform but once mastered offers the
+axe user a devastating finisher. With incredible strength and skill, the Fighter jumps and performs a somersault. During the somersault, the Fighter performs an overhead chop with all of the leverage he can manage in mid-air. The momentum of the spin and his chop combine for a devastating blow that bisects most opponents. This technique was created by Dwarves to kill giants.
+
+Clubs
+--
+Cranial: A basic but trusted favorite, the cranial is a strike at the opponent's upper head, in order to give them a concussion. If successful, the target is slowed and suffers reduced accuracy. The status effect is less likely against heavily armored opponents.
+
+Improved Bash: Passive; the bludgeoner, being an expert with blunt instruments, is also more effective at bashing than other club users. The force of the impact renders the target slowed so that the assailant may catch up.
+
+Sunder: Against heavily-armored foes, clubs are the weapon of choice. With repeated, targeted strikes, the bludgeoner can turn his opponent's armor against him by causing it to cave in on him. This attack reduces the target's DEF significantly and deals good damage as well.
+
+Fracture: The bludgeoner targets an extremity, aiming to break the more delicate bones located there. Usage: #fracture <hand/foot>. Hand: the target's hand is rendered temporarily unusable. This causes the opponent to drop their weapon, if they have one, and suffer severe accuracy penalties afterwards. Foot: the target's foot bones are badly damaged. This renders the target immobile for several seconds.
+
+Necromancer
+-----
+
+Summoning
+--
+Bone Armor: Careful temporary reanimation and manipulation allows the Necromancer to craft a bone armor mantle. It is moderately effective against physical
+attacks, but not as effective as other protection spells such as Crystallize.
+
+Animate Dead: Through a ruthless but efficient magical process, Necromancers force a recently-departed soul back into its body once more. Unformed souls are
+primal in nature and more animalistic in intelligence, and so are easily manipulated and enslaved. The soul's restored presence grows with practice.
+
+Animate Golem: Golem creation is considered unethical by most mages, since it is believed to be a creation of a consciousness, i.e. playing God. This does not bother Necromancers. While other arcane schools left golem research in the dust, Necromancers have refined the art of what used to be an extremely expensive and materially-intensive process into a brief invocation. Multiple golem types can be created:
+#cast animategolem clay creates a clay golem. Clay golems can be made anywhere, and are fairly hardy.
+#cast animategolem bone creates a bone golem. Bone golems require higher skill, and at least two nearby corpses. However, they have sharp and deadly claws.
+#cast animategolem iron creates an iron golem. Iron golems require elite skill and can only be made in specific locations (mines). However, they are extremely
+resilient and deliver devastating blows.
+
+Bulwark: Used as a panic button if targeted in a fight, this costly spell brutally rips recently slain foes' bones from their bodies and rearranges them into
+a protective wall to keep the Necromancer safe. This can allow the Necromancer's other spells to cool down, or for him to summon a new assistant; whatever he might
+find necessary.
+
+Animate Greater Undead: Necromancers gain the power to quickly transform fallen enemies into more powerful undead beings. This allows Necromancers to summon
+two different beings, mummies and ghouls. Mummies are difficult to take down and can help the Necromancer Curse his foes, but Ghouls can paralyze a foe upon a successful attack.
+
+Manifest Shadow: The Necromancer creates a shadow, a being of pure negative energy; an "elemental," if Invokers would deem to respect Necromancers by using
+that descriptor. This summon is quite powerful and has several Channelling spells at its disposal. However, such a being is very unstable on the material plane, and can only guard the location of its summoning. The Necromancer can only have one shadow manifest at a time.
+
+Binding
+--
+Curse: The Necromancer performs a brief ritual that marks the target's soul, turning it into a beacon. This causes it to draw a lot of attention in the spirit
+realm. The target feels extremely anxious, but they do not know why. This distracting feeling causes the target skill penalties.
+
+Bind: The fundamental element of Binding magic, Bind creates a channel in the spirit realm from the target to a pocket under the Necromancer's control. Once
+the target dies, its soul is channelled into the pocket, where it remains trapped until the Necromancer is pleased to use it. These souls do not do anything
+on their own, but are used as "ammunition" for other binding spells. Necromancers learn to bind more souls at a time as they become better at manipulating spirits. Alternatively, the Necromancer can devour the spirit as a satisfying snack with #devour, once he's captured a soul. This recovers spiritual energy (mana).
+
+Haunt: Once a Necromancer has bound a soul, he directs all of the hapless spirit's angst and sadness at a target. Then, he releases the spirit. The primal
+nature of a spirit's intelligence means that the spirit will reliably rip through the Necromancer's target every time.
+
+Horror: Instead of using the soul as a projectile, the Necromancer creates a rift and allows the spirit to escape into the material plane briefly. This does
+nothing on its own, but the visage of a tormented spirit is incredibly terrifying to the uninitiated. Everyone close to the Necromancer becomes wracked with
+fear. Does not work on other Necromancers.
+
+Drain: Directly manipulating another living being's spiritual energy is difficult, but drain bypasses the issue by using a captured soul as a proxy. The soul tears away at the victim's own soul and the Necromancer consumes the resulting latent spiritual energy that floats in the ambience. This spell allows the Necromancer to leech directly from the target's spiritual energy, stealing their mana. 
+
+Wraithform: By consuming a stored spirit, Necromancers can exhibit some of the properties of ghosts. This form allows Necromancers to glide (if they can't already), take reduced damage from physical attacks, and pass through creatures. However, the Necromancer takes damage from healing spells as an undead does during the transformation. 
+
+Enervation: This spell uses the energy from one soul to free another. Considered the ultimate spiritual attack, Enervation strains the connection of the
+body to the soul. The body is severely weakened as a result of this, almost as if the victim had grown extremely decrepit in age. At the end of the spell's duration, the soul is fully restored and vitalization returns. This spell temporarily reduces the maximum and current hit points of the target. Since this is a spiritual attack, having a well-toned physique does not help against this attack.
+
+Channelling
+--
+Disrupt: Necromancers are masters of manipulation of negative energy, the fuel of unlife animation. It is a rather trivial thing for a Necromancer to smite
+an undead being that has overstepped its boundaries by tearing at the seams of its connection to the material plane.
+
+Lifeshock: In a continuation of the Necromancers' running rivalry and burning disrespect for Invokers, they fashioned this spell. 
+A shadowy red lightning bolt flashes from the Necromancers' hands. It isn't lightning, but actually a narrow rift of negative energy fashioned like it, in a mockery of electromancers. In an instant, a sizeable portion of lifeforce is transferred from the victim to the Necromancer. It may seem curious to mock another by copying them, but it seems to infuriate the Invokers to no end, and to the Necromancers' amusement.
+
+Augury: Commonly known as divination by entrails, Necromancers have cleared away the common pagan mythology associated with this curious magical trick and
+refined it to a science. Using the invisible rift that a recent death creates to the plane of Death, the Necromancer creates a window on "the other side," wherever he wishes in the material plane. The rift is open wide enough for the Necromancer to see through, but not for him to travel through. If the Necromancer has recently slain an enemy, this spell allows them to know where any one person is. It provides detailed information such as exact coordinates, distance and bearing, and current zone. It also lets you know if they are travelling with anyone (in a party).
+
+Control Undead: Trained Necromancers can wrench servitude from a roaming undead or even the grips of another Necromancer. If cast on an enemy mob, you will
+still receive experience when the mob dies, even if he is on your team.
+
+Gate: The Necromancer has become so skilled at manipulating negative energy that he can use it as an engine to propel himself, and create a rift into the plane of Death anytime he chooses. He creates a portal into the plane of Death and travels through it, appearing anywhere in the material plane in an instant. 
+
+Evade Death's Gaze: The Necromancer's mastery of negative energy is such that they can render themselves invisible and untargetable by hostile undead
+creatures. Unlike conventional invisibility, this is not removed once the Necromancer starts attacking and casting spells.
+
+Call: Performed only by the most elite of channellers, Call is an advanced version of Gate that can be performed on an unwilling target, bringing them to the
+Necromancer. The ritual is performed on targets that the Necromancer wishes dead, but are difficult to kill with more conventional means. Once the Necromancer
+has all of his undead slaves ready along with any other preparations, the person is taken through the plane of Death to a location near the Necromancer. While the Necromancer shields himself from the raw negative energy, the Necromancer of course affords his victim no such protection. 
+As a result, the target arrives at the Necromancer's feet completely disoriented.
+
+Pathomancy
+--
+Sleep: Surprisingly easy to cast but still a trusted favorite, Sleep is in every Necromancer's arsenal. It is effective, but unreliable against targets with a 
+conditioned physique. The sleep is more akin to a state of unconsciousness than normal sleep, so the victim is very difficult to wake. However, when the victim is damaged, they will receive a chance to awaken.
+
+Blind: A simple but frightening spell, Blind strangles bloodflow to the eyes. The spell is variably effective based on how hardy the victim's body is, but always at least disorients the victim for an instant.
+
+Ghoul Touch: With an incantation, the Necromancer makes one of his hands an unsettling bone white, and attempts to touch his target. If successful, the Necromancer induces an artificial state of dying on the victim's body, stiffening their muscles and causing bodily damage. It is likely that this touch will
+paralyze the target in place for a short while; less likely on well-trained physiques.
+
+Crimson Scourge: Crimson Scourge is the result of Necromancers having a laugh. Horrific and devastatingly effective, the Crimson Scourge is a magically
+created plague which causes the victim to bleed profusely from all of the pores in their body. The disease is also bloodborne and very contagious; anyone who gets very close
+will be at high risk of catching the Scourge. This is considered the "punchline" by Necromancers: how long can a group of backwater inbred village hicks infect each other with a death virus before they realize it's contagious? The disease is uncurable aside from powerful healing magic, but with enough conventional healing the infected blood will eventually purge itself from the victim's body. However, without any source of healing, the victim will surely die once all of the blood purges.
+
+Poison Cloud: Creates a cloud of magical poisonous spores. Anyone who inhales the spores is likely to become poisoned and suffer damage over time. The damage is enough to kill most given enough time, but healing can easily prevent death and allow the victim to outlast the poison.
+
+Deathwatch: With this spell, the Necromancer knows the location of every beating heart nearby and can easily monitor the vital signs of anyone he sees. 
+This allows the Necromancer to see any hidden units, assuming they're alive and have a heart. The distance this is effective increases with training. This also allows the Necromancer to know exact hit point values in combat.
+
+Confusion: Confusion was an early spell crafted by Necromancers researching brains and neurology, which is still in its infancy. This spell magically alters the target's neuron emissions, so that they do not always reach their intended path. This spell randomizes the target's keyboard controls temporarily. If it is an NPC, they instead follow a different (more advantageous to the player) behavior pattern.

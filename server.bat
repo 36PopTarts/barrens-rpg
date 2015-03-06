@@ -1,0 +1,1 @@
+InfiniteSpawn.exe *Tribes.exe
